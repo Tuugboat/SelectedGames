@@ -10,8 +10,16 @@
 [Mode "OTB"]
 [Annotator "Petit, Robert"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 Bd6 6. Bg5 O-O 7. O-O Be7 8. Re1 d6 9. h3 Nd7
-10. Bxe7 Qxe7 11. Nbd2 Nf6 12. Bd3 Bd7 13. Nb3 a6 14. d5 Nd8 15. a4 b6 16. a5 b5 17. Nbd2 Nb7 18. b4 Rfc8 19. c4 c6
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 Bd6 6. Bg5 {Perhaps it is a difference in taste, but Bg5 invites black to progress their position and trade knight for bishop. dxe5 is what I found here, leading to a Ng5 in the near future, which retains tempo for you. Engine likes Bd5 instead, which has the same outcome as your move without Black giving ground. Regardless, your opponent plays very passively so the difference is minimal} O-O
+7. O-O Be7 8. Re1 d6 9. h3 Nd7 {I think this is a key moment leading into the midgame. Your opponents queen is in jail at this point, and retreating your bishop ensures she stays there until Black develops a worthless dark bishop. Accepting this trade gives you nothing and lets Black's queen out for free.}
+10. Bxe7 Qxe7 11. Nbd2 {Centralizing a knight here hints at what was given away with 10. Bxe7, since the knight is leading towards a king-side attack that is no longer there} Nf6
+12. Bd3 Bd7 13. Nb3 {13. Nb3 has me baffled. Queenside pawns aren't going anywhere soon, a5 poses no threat, and moving the knight anywhere allows for aggresive Qd2 again pointing kingside. A reserve knight here should be rerouted, not developed to the wrong side. It's small, but this is my least favorite move in the game.} a6 
+14. d5 {d5 begs for c4, b3 in the future and would stuff your opponents hopes and dreams queenside. You already earned that position and opt to instead skirmish anyway} Nd8
+15. a4 b6 16. a5 b5 17. Nbd2 Nb7 18. b4 Rfc8 19. c4 {After c6, I beg you to sit and consider for a moment the advantage you could gain by playing dxc6. The contrapositive of the decision to trade the dark bishop, your light bishop is crowded and useless, there's no need to be stingy with it. Especially when you get an andvanced pawn out of the deal.} c6 
 20. Rc1 c5 21. Qb3 Rc7 22. cxb5 Bxb5 23. Nc4 Nd7 24. Nb6 Nxb6 25. axb6 R7c8 26. Red1 Qd8 27. Bxb5 axb5 28. bxc5 Rxc5 29. Rxc5 Nxc5
-30. Qxb5 Nxe4 31. Rc1 Rb8 32. Kh2 Rb7 33. Qc6 Re7 34. b7 Qb8 35. Qc8+ Re88 36. Qxb8 Kf8 37. Qxe8+ Kxe8 38. b8=Q+ Ke7 39. Rc7+ Kf6
-40. Qd8+ Kg6 41. Qh4 f5 42. Rd7 h6 43. Qe7 Nf6 44. Qf7 Kh7 45. Qxg7# 1-0
+30. Qxb5 {For all my criticism, you found your way through this very well; knowing how well you can solve the coming endgame, I would call it won at this point.} Nxe4
+31. Rc1 Rb8 32. Kh2 {I cannot find what you are afraid of here that would warrant passivity. The explanation must be nerves, but regardless, you give the option for a lot of counterplay that you do not need to here.} Rb7
+33. Qc6 Re7 34. b7 Qb8 {Black misses the key line 34...Nc5 35.Rxc5 dxc5 which does not gain any ground, but stops the pawn promotion after 36. d6 Rxb7}
+35. Qc8+ Re88 36. Qxb8 Kf8 37. Qxe8+ {Qxe8+ is easy to find, but is the first of many moves in this tournament where you sacrifice non-trivial material for a winning position. It's my favorite theme of this play.} Kxe8 
+38. b8=Q+ {Your nerves show clearly here. The rest of the game is a sequence of missed patterns for quick mates that I am positive you know (here you missed M2 that starts with Rc7)} Ke7
+39. Rc7+ Kf6 40. Qd8+ Kg6 41. Qh4 f5 42. Rd7 h6 43. Qe7 Nf6 44. Qf7 Kh7 45. Qxg7# 1-0
